@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a registration form and a thank you page. The form uses a site master, CSS, Boostrap, session variables
+Project consists of a registration form and a thank you page. The form uses a site master, CSS, Boostrap, session variables, radio buttons, checkboxes, header file, and footer file.
 <br />
 
 
